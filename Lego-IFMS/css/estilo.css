@@ -1,0 +1,63 @@
+.pai{
+	width: 100%;
+	background-color: white;
+
+	display: flex; /transforma uma div em conterne/
+	flex-direction:row;
+	flex-wrap:wrap; /permite quebra de linha/
+	justify-content: center;
+	align-items:;/deixa os elementos no centro/
+}
+
+#filho1{
+	width: 15%;
+	height: 15vh;
+	background-color: green;
+}
+#filho2{
+	width: 85%;
+	background-color: green;
+}
+#filho3{
+	width: 100%;
+	height: 20vh;
+	background-color:#d3d3d3;
+
+}
+#filho4{
+	width: 70%;
+	height: 80vh;
+	background-color: white;
+}
+#filho5{
+	width: 30%;
+	height: 80vh;
+	background-color: white;
+}
+#filho6{
+	width: 100%;
+	height: 30vh;
+	background-color: green;
+}
+
+.img{
+	margin: 2vh 60vh 2vh 60vh;
+}
+
+.img2{
+	margin:2vh 5vh 2vh 5vh ;
+}
+p{
+	font-size: 100px;
+	margin:0vh 35vh 0vh 35vh ;
+	color: blue;
+	font-family: serif;
+}
+.img3{
+	margin:0vh 35vh 0vh 35vh;
+
+}
+
+.buscar{
+	margin:60px 100px;
+}
